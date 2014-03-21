@@ -1,4 +1,4 @@
-# git-origin-url [![Build Status](https://travis-ci.org/wilmoore/node-git-origin-url.svg)](https://travis-ci.org/wilmoore/node-git-origin-url) [![Build Status](https://david-dm.org/wilmoore/git-origin-url.png)](https://david-dm.org/wilmoore/git-origin-url) [![NPM version](https://badge.fury.io/js/git-origin-url.png)](http://badge.fury.io/js/git-origin-url)
+# git-origin-url [![Build Status](https://travis-ci.org/wilmoore/node-git-origin-url.svg)](https://travis-ci.org/wilmoore/node-git-origin-url) [![NPM version](https://badge.fury.io/js/git-origin-url.png)](http://badge.fury.io/js/git-origin-url)
 
 > Retrieve the git remote origin URL of the current repo for [Node.js][].
 
