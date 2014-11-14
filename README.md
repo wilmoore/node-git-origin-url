@@ -1,4 +1,6 @@
-# git-origin-url [![Build Status](https://travis-ci.org/wilmoore/node-git-origin-url.svg)](https://travis-ci.org/wilmoore/node-git-origin-url) [![NPM version](https://badge.fury.io/js/git-origin-url.png)](http://badge.fury.io/js/git-origin-url)
+# git-origin-url
+
+[![Build Status](http://img.shields.io/travis/wilmoore/node-git-origin-url.svg)](https://travis-ci.org/wilmoore/node-git-origin-url) [![NPM version](http://img.shields.io/npm/v/git-origin-url.svg)](https://www.npmjs.org/package/git-origin-url) [![NPM downloads](http://img.shields.io/npm/dm/git-origin-url.svg)](https://www.npmjs.org/package/git-origin-url) [![LICENSE](http://img.shields.io/npm/l/git-origin-url.svg)](license)
 
 > Retrieve the git remote origin URL of the current repo for [Node.js][].
 
@@ -23,8 +25,7 @@
 
 ## License
 
-  MIT
+  [MIT](license)
 
 [resolve-git-remote]:   https://github.com/thlorenz/resolve-git-remote
 [Node.js]:              http://nodejs.org
-
